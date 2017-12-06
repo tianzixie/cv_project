@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """
+#python2.7
+#opencv2.4.11
 Spyder Editor
 
 This is a temporary script file.
